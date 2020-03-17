@@ -9,7 +9,7 @@ b) jak wygenerowac i czym analizować<br/>
 a) Po krótce czym są unit testy<br/>
 b) dlaczego są szeroko stosowane
 c) czym jest dług techniczny<br/>
-d) generowanie raportu z pokryciem kodu unit testami<br/>
+d) raport z pokryciem kodu unit testami<br/>
 <br/>
 
 i humorystyczny dodatek :-)
