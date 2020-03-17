@@ -10,3 +10,6 @@ a) Po krótce czym są unit testy<br/>
 b) dlaczego są szeroko stosowane (prewencja przed bugami)<br/>
 c) czym jest dług techniczny<br/>
 d) generowanie raportu z procentowym pokryciem kodu unit testami<br/>
+<br/>
+
+i humorystyczny dodatek :-)
