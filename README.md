@@ -1,4 +1,7 @@
-# Narzedzia do debugowania
+# Skiba Arkadiusz, SEM: Środa 9:40, PROJ: Czwartek 12:10
+<br/>
+Narzedzia do debugowania<br/>
+<br/>
 **Czesc I** - Narzędzia do debugowania wbudowane w IDE<br/>
 a) Podstawowe funkcje debuggera w wybranym IDE<br/>
 b) Podgląd programu w języku asemblera (funkcjonalność dissasembly)<br/>
